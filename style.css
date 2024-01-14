@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url(Fonts/Poppins-Regular.ttf);
+}
+@font-face{
+    font-family: 'Pasifico';
+    src: url(Fonts/Pacifico-Regular.ttf);
+}
+@font-face {
+    font-family: 'luckiestguy';
+    src: url(Fonts/LuckiestGuy-Regular.ttf);
+}
+@font-face{
+    font-family: 'pinkschicken';
+    src: url(Fonts/PinkChicken-Regular.ttf);
+}
+
+table {
+    width: 100%;
+    background-color: #8a2be2;
+    color: white;
+    padding: 25px;
+    padding-left: 20px;
+    font-size: 25px;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Poppins';
+}
+
+a:hover{
+    color: #8eff8e;
+}
+.para{
+    text-align: center;
+    color: #008080;
+    font-weight: bold;
+    font-size: 25px;
+    font-family:'Poppins';
+                
+}
+.copy{
+    text-align: center;
+    font-family: 'Poppins';
+    color: #008080;
+
+}
+.copy::first-line{
+    color: #a52a2a;
+}
+h1{
+    text-align: center;
+}
+.poem1:first-letter{
+    color: #adff2f;
+    font-size: 130px;
+    font-family: 'luckiestguy';
+    font-weight: 800px;
+}
+.poem1{
+    color: aqua;
+    font-family: 'luckiestguy';
+    font-size:70px; 
+}
+.poem2:first-letter{
+    color: #fc7b03;
+    font-size: 130px;
+    font-family: 'Pasifico';
+}
+.poem2{
+    color: #f4f80c;
+    font-family: 'Pasifico';
+    font-size:70px; 
+
+}
+.poem5:first-letter{
+    font-family: 'pinkschicken';
+    font-size: 130px;
+    color: #fc7b03;
+}
+.poem5{
+    color: #00ff6e;
+    font-family: 'Pasifico';
+    font-size:70px; 
+ }
+
+ .poem3:first-letter{
+    font-family: 'pinkschicken';
+    font-size: 130px;
+    color: #ff00bf; 
+}
+ .poem3{
+    color: #00ff6e;
+    font-family: 'Pasifico';
+    font-size:70px; 
+ }
+ .poem4:first-letter{
+    font-family: 'luckiestguy';
+    font-size: 130px;
+    color: #ff9d00; 
+}
+ .poem4{
+    color: #01ebcc;
+    font-family: 'Poppins';
+    font-size:70px; 
+    font-weight: bolder;
+ }
